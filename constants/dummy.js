@@ -3,9 +3,9 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "0b36bd12-dfd2-40ee-8ee3-6033b0d3d665",
-    name: "Abstracto #312",
-    creator: "Anthony Joboy",
-    price: 4.25,
+    name: "Am. School ///: 226",
+    creator: "Funsho Bolurin",
+    price: 65250.56,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
     image: assets.nft01,
@@ -13,21 +13,21 @@ const NFTData = [
       {
         id: "BID-11",
         name: "Jessica Tan",
-        price: 4.25,
+        price: 45000.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-12",
         name: "Jennifer Sia",
-        price: 4.5,
+        price: 60000.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-13",
         name: "Rosie Wong",
-        price: 4.75,
+        price: 62000.00,
         image: assets.person04,
         date: "December 31, 2022 at 3:50 PM",
       },
@@ -36,8 +36,8 @@ const NFTData = [
   {
     id: "120e9c5d-8acc-41e1-81ab-73d296975131",
     name: "Green Coins",
-    creator: "Siti Nurhaliza",
-    price: 7.25,
+    creator: "Israel Adesanya",
+    price: 75800.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
     image: assets.nft02,
@@ -45,7 +45,7 @@ const NFTData = [
       {
         id: "BID-21",
         name: "Jessica Tan",
-        price: 7.05,
+        price: 79000,
         image: assets.person04,
         date: "December 12, 2022 at 12:10 PM",
       },
@@ -54,8 +54,8 @@ const NFTData = [
   {
     id: "afb77060-d1ec-42c5-b639-77f869f7be89",
     name: "NFT coins race",
-    creator: "Elisabeth aho",
-    price: 95.25,
+    creator: "Susan Okoye",
+    price: 95250.89,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
     image: assets.nft03,
@@ -63,14 +63,14 @@ const NFTData = [
       {
         id: "BID-31",
         name: "Jessica Tan",
-        price: 95.25,
+        price: 95250.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-32",
         name: "Jennifer Sia",
-        price: 95.5,
+        price: 95550.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
@@ -80,7 +80,7 @@ const NFTData = [
     id: "0c709e73-a34e-4145-8706-70c8d664d19c",
     name: "Nifty NFT",
     creator: "Putri Intan",
-    price: 54.25,
+    price: 54500,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
     image: assets.nft04,
@@ -88,28 +88,28 @@ const NFTData = [
       {
         id: "BID-41",
         name: "Jessica Tan",
-        price: 56.25,
+        price: 56250.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-42",
         name: "Jennifer Sia",
-        price: 54.25,
+        price: 54250.75,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-43",
         name: "Rosie Wong",
-        price: 55.15,
+        price: 55150.75,
         image: assets.person04,
         date: "December 31, 2022 at 3:50 PM",
       },
       {
         id: "BID-44",
         name: "Vincent Swift",
-        price: 54.15,
+        price: 54150.10,
         image: assets.person02,
         date: "December 31, 2022 at 3:50 PM",
       },
@@ -119,7 +119,7 @@ const NFTData = [
     id: "9f4b3e8b-7ab0-471b-94c1-390b37cc11e5",
     name: "Colorful circles",
     creator: "David doe",
-    price: 10.25,
+    price: 10500.00,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
     image: assets.nft05,
@@ -127,7 +127,7 @@ const NFTData = [
       {
         id: "BID-51",
         name: "Jessica Tan",
-        price: 10.25,
+        price: 10250.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
@@ -136,8 +136,8 @@ const NFTData = [
   {
     id: "b828c39d-604a-42fa-9285-9f3919e84d44",
     name: "Black box model",
-    creator: "Leo Messi",
-    price: 20.25,
+    creator: "Halima Abdulrasheed",
+    price: 28750.75,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
     image: assets.nft06,
@@ -145,21 +145,21 @@ const NFTData = [
       {
         id: "BID-61",
         name: "Jessica Tan",
-        price: 20.25,
+        price: 20250.75,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-62",
         name: "Jennifer Sia",
-        price: 20.5,
+        price: 25000.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-63",
         name: "Rosie Wong",
-        price: 20.75,
+        price: 27500.00,
         image: assets.person04,
         date: "December 31, 2022 at 3:50 PM",
       },
@@ -173,7 +173,7 @@ const NFTData = [
       {
         id: "BID-65",
         name: "Kaitlyn Lee",
-        price: 7.25,
+        price: 17250.00,
         image: assets.person02,
         date: "December 31, 2022 at 3:50 PM",
       },
@@ -183,7 +183,7 @@ const NFTData = [
     id: "bc35bc35-b6ec-4a7c-b392-d83c262e2c58",
     name: "Abstracto soulful art",
     creator: "Ademola Williams",
-    price: 18.25,
+    price: 18025.50,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Ullamcorper platea penatibus ornare egestas nulla ligula hendrerit nisl suscipit sociosqu maximus, tincidunt aptent habitant purus pharetra ultrices dapibus laoreet nisi lacinia. Porta malesuada netus vel sapien conubia porttitor aliquam ut pretium ante litora molestie senectus magna egestas sociosqu, eget aliquet fames pharetra felis posuere varius fringilla quisque in arcu montes eu ullamcorper.",
     image: assets.nft07,

@@ -7,7 +7,8 @@ An attractive UI design for an NFT marketplace cross-platform React Native mobil
 This react native NFT Marketplace application features the following:
 
 1. A home page to display list of NFT's
-2. A details page to provide information about the selected NFT and see the active bids.
+2. Search functionality
+3. A details page to provide information about the selected NFT and see the active bids.
 
 ## What is non-fungible token(NFT)?
 

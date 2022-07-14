@@ -3,6 +3,8 @@ export const COLORS = {
   secondary: "#4D626C",
   white: "#FFF",
   gray: "#74858C",
+  dark: "#1A1A1A",
+  link: "#0645AD",
 };
 
 export const SIZES = {
