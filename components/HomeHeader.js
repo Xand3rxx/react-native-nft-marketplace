@@ -24,7 +24,7 @@ const HomeHeader = ({ onSearch }) => {
 
         <View style={{ width: 45, height: 45 }}>
           <Image
-            source={assets.person05}
+            source={assets.person01}
             resizeMode="contain"
             style={{
               width: "100%",

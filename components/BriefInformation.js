@@ -64,6 +64,9 @@ export const ImageComponent = ({ imgUrl, index }) => {
         width: 48,
         height: 48,
         marginLeft: index === 0 ? 0 : -SIZES.font,
+        borderRadius: 50,
+        overflow: "hidden",
+        borderWidth: 3,
       }}
     />
   );
@@ -95,17 +98,16 @@ export const NFTTitle = ({ title, subTitle, titleSize, subTitleSize }) => {
 };
 
 export const People = () => {
+  // const items = [
+  //   assets.person02 + Math.floor(Math.random() * 8) + 2,
+  //   assets.person03 + Math.floor(Math.random() * 8) + 2,
+  //   assets.person04 + Math.floor(Math.random() * 8) + 2,
+  // ];
   return (
     <View style={{ flexDirection: "row" }}>
-      {[assets.person01, assets.person04, assets.person03].map(
-        (imgUrl, index) => (
-          <ImageComponent
-            imgUrl={imgUrl}
-            index={index}
-            key={`People-${index}`}
-          />
-        )
-      )}
+      {[assets.person02, assets.person06, assets.person04].map((imgUrl, index) => (
+        <ImageComponent imgUrl={imgUrl} index={index} key={`People-${index}`} />
+      ))}
     </View>
   );
 };

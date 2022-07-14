@@ -3,8 +3,8 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "0b36bd12-dfd2-40ee-8ee3-6033b0d3d665",
-    name: "Am. School ///: 226",
-    creator: "Funsho Bolurin",
+    name: "Color showcase: 226",
+    creator: "Michael Banuso",
     price: 65250.56,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
@@ -12,23 +12,23 @@ const NFTData = [
     bids: [
       {
         id: "BID-11",
-        name: "Jessica Tan",
+        name: "Jessica Osagie",
         price: 45000.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-12",
-        name: "Jennifer Sia",
+        name: "Chinenye Okpara",
         price: 60000.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-13",
-        name: "Rosie Wong",
+        name: "Olisa Kelvin",
         price: 62000.00,
-        image: assets.person04,
+        image: assets.person07,
         date: "December 31, 2022 at 3:50 PM",
       },
     ],
@@ -44,9 +44,9 @@ const NFTData = [
     bids: [
       {
         id: "BID-21",
-        name: "Jessica Tan",
+        name: "John Phillips",
         price: 79000,
-        image: assets.person04,
+        image: assets.person08,
         date: "December 12, 2022 at 12:10 PM",
       },
     ],
@@ -62,14 +62,14 @@ const NFTData = [
     bids: [
       {
         id: "BID-31",
-        name: "Jessica Tan",
+        name: "Jessica Osagie",
         price: 95250.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-32",
-        name: "Jennifer Sia",
+        name: "Chinenye Okpara",
         price: 95550.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
@@ -79,7 +79,7 @@ const NFTData = [
   {
     id: "0c709e73-a34e-4145-8706-70c8d664d19c",
     name: "Nifty NFT",
-    creator: "Putri Intan",
+    creator: "Isaac George",
     price: 54500,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
@@ -87,21 +87,21 @@ const NFTData = [
     bids: [
       {
         id: "BID-41",
-        name: "Jessica Tan",
+        name: "Jessica Osagie",
         price: 56250.00,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-42",
-        name: "Jennifer Sia",
+        name: "Chinenye Okpara",
         price: 54250.75,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-43",
-        name: "Rosie Wong",
+        name: "Sandra Olisa",
         price: 55150.75,
         image: assets.person04,
         date: "December 31, 2022 at 3:50 PM",
@@ -126,9 +126,9 @@ const NFTData = [
     bids: [
       {
         id: "BID-51",
-        name: "Jessica Tan",
+        name: "Terry Jamal",
         price: 10250.00,
-        image: assets.person02,
+        image: assets.person06,
         date: "December 12, 2022 at 12:10 PM",
       },
     ],
@@ -144,21 +144,21 @@ const NFTData = [
     bids: [
       {
         id: "BID-61",
-        name: "Jessica Tan",
+        name: "Jessica Osagie",
         price: 20250.75,
         image: assets.person02,
         date: "December 12, 2022 at 12:10 PM",
       },
       {
         id: "BID-62",
-        name: "Jennifer Sia",
+        name: "Chinenye Okpara",
         price: 25000.00,
         image: assets.person03,
         date: "December 27, 2022 at 1:50 PM",
       },
       {
         id: "BID-63",
-        name: "Rosie Wong",
+        name: "Sandra Olisa",
         price: 27500.00,
         image: assets.person04,
         date: "December 31, 2022 at 3:50 PM",

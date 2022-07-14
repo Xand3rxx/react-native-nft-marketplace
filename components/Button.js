@@ -56,35 +56,3 @@ export const BidButton = ({
     </TouchableOpacity>
   );
 };
-
-
-export const DetailsButton = ({
-  minWidth,
-  fontSize,
-  handlePress,
-  ...props
-}) => {
-  return (
-    <TouchableOpacity
-      style={{
-        backgroundColor: COLORS.primary,
-        borderRadius: SIZES.extraLarge,
-        minWidth: minWidth,
-        padding: SIZES.small,
-        ...props,
-      }}
-      onPress={handlePress}
-    >
-      <Text
-        style={{
-          color: COLORS.white,
-          fontSize: fontSize,
-          fontFamily: FONTS.semiBold,
-          textAlign: "center",
-        }}
-      >
-        Place a bid
-      </Text>
-    </TouchableOpacity>
-  );
-};
