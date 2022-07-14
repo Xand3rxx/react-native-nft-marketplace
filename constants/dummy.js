@@ -3,7 +3,7 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "0b36bd12-dfd2-40ee-8ee3-6033b0d3d665",
-    name: "Color showcase: 226",
+    name: "Color showcase",
     creator: "Michael Banuso",
     price: 65250.56,
     description:
