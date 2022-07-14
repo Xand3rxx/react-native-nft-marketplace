@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-demo",
-    "slug": "react-native-demo",
+    "name": "react-native-nft-marketplace",
+    "slug": "react-native-nft-marketplace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.xanderx.reactnativedemo"
+      "package": "com.xanderx.nftmarketplace"
     },
     "web": {
       "favicon": "./assets/favicon.png"
