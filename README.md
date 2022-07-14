@@ -18,3 +18,9 @@ A non-fungible token (NFT) is a cryptographic token that represents a unique ass
 
 1. Run `npm install --legacy-peer-deps` to install dependencies.
 2. Run `npm start` to start the expo client and connect your devices using Expo Go with localhost IP generated for you.
+
+# Project Screenshot
+
+|            Home Screen             |            Details Screen             |
+| :--------------------------------: | :-----------------------------------: |
+| ![](assets/images/home-screen.jpg) | ![](assets/images/details-screen.jpg) |
